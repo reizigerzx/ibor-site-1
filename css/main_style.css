@@ -729,7 +729,7 @@ embed { width:100%;}
 
 
 .oi_vc_potrfolio .oi_sub_legend { font-size:24px; line-height:24px; text-transform:uppercase;}
-.oi_vc_port_cat { margin-top:8px; text-transform:uppercase; opacity:0.8; font-size:12px; letter-spacing:2px;}
+.oi_vc_port_cat { margin-top:16px !important; text-transform:uppercase; opacity:0.8; font-size:14px !important; letter-spacing:2px;}
 .oi_vc_sep { height:3px; width:40px; display:inline-block;}
 .oi_vc_potrfolio a { text-decoration:none;}
 .oi_vc_potrfolio .oi_sub_legend { margin-bottom:0px;}
