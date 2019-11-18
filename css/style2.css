@@ -1,0 +1,362 @@
+        /*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+        .black-on-grey {
+          background: #e5e5e5;
+          color: #000;
+        }
+
+
+        .this_page {
+          margin-top: 130px !important;
+        }
+
+        .icon-2x {
+          font-size: 1.5em;
+        }
+
+        .parent {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          overflow: hidden;
+        }
+
+        .container-fluid {
+          padding: 0 !important;
+        }
+
+        .oi_vc_potrfolio .oi_sub_legend {
+          text-transform: none !important;
+          font-size: 21px;
+          padding: 0 2em 0 2em;
+          line-height: 24px;
+        }
+
+        .oi_vc_port_cat {
+          margin-top: 5px;
+          text-transform: uppercase;
+          opacity: 0.8;
+          font-size: 10px;
+          letter-spacing: 1;
+        }
+
+        body {
+          letter-spacing: 0 !important;
+          background: #fff;
+          line-height: 28px;
+          color: #848995;
+          -webkit-font-smoothing: antialiased;
+        }
+
+        .blog_item p {
+          margin-bottom: 30px;
+        }
+
+        .brand-logo img {
+          width: 50px;
+          height: 50px;
+        }
+
+        .oi_head_holder {
+          background: #fff;
+        }
+
+        .oi_head_holder.oi_sticky {
+          background: #fff;
+        }
+
+        .oi_vc_port_mask {
+          opacity: 1;
+        }
+
+        .oi_vc_potrfolio:hover .oi_vc_port_mask {
+          opacity: 0;
+        }
+
+        .oi_vc_port_mask {
+          transition: all .5s ease !important;
+          -moz-transition: all .5s ease !important;
+          -webkit-transition: all .5s ease !important;
+          -o-transition: all .5s ease !important;
+        }
+
+        .oi_header_menu li a {
+          font-family: 'Roboto Mono', monospace;
+          text-transform: none !important;
+          font-size: 14px !Important;
+        }
+
+        .intro h1 {
+          font-size: 48px;
+          font-weight: 300 !Important;
+          font-family: Roboto;
+          line-height: 1.2;
+        }
+
+        .intro p {
+          margin-top: 20px;
+        }
+
+        .join-btn {
+          background: #F58634 !important;
+          font-size: 12px;
+          cursor: pointer;
+          padding: 10px 20px 10px 20px;
+          color: #fff !important;
+          border: none;
+          border-radius: 0;
+        }
+
+        .join-btn:hover {
+          background: #e27c30 !important;
+          color: #fff !important;
+        }
+
+        .oi_header_menu a {
+          color: #242A37 !important;
+          padding: 0 !important;
+          margin-left: 40px;
+          padding-bottom: 5px !important;
+          padding-top: 10px !important;
+        }
+
+        .oi_header_menu a:hover {
+          text-decoration: none !important;
+          background: none !important;
+          color: #242A37 !important;
+          border-bottom: solid 2px #F58634;
+        }
+
+        .oi_load_more_holder {
+          text-align: center;
+          padding: 30px;
+          background: none !important;
+          letter-spacing: 2px;
+          text-transform: uppercase;
+          font-size: 9px;
+        }
+
+        #see-more-holder {
+          text-align: center !important;
+        }
+
+        svg {
+          fill: #919191 !important;
+        }
+
+        .oi_header_menu>li.current-menu-item>a,
+        .oi_header_menu>li.current-menu-parent>a,
+        .oi_header_menu>li.current_page_parent a,
+        .oi_header_menu>li.current-menu-parent:hover>a,
+        .oi_header_menu>li.current_page_parent:hover>a {
+          text-decoration: none !important;
+          background: none !important;
+          color: #242A37 !important;
+          border-bottom: solid 2px #F58634;
+        }
+
+
+        /* Blog */
+        .vc_gitem_row .vc_gitem-col {
+          padding: 20px !important;
+        }
+
+        .vc_gitem_row .vc_gitem-col h4 {
+          font-size: 14px;
+        }
+
+        .vc_gitem_row .vc_gitem-col p {
+          font-size: 12px;
+          line-height: 1.7 !important;
+        }
+
+        .vc_btn3-container {
+          display: block;
+          margin-bottom: 0 !important;
+          max-width: 100%;
+        }
+
+        .vc_btn3.vc_btn3-size-md {
+          background: none;
+          padding: 0 !important;
+        }
+
+        .vc_btn3.vc_btn3-color-juicy-pink,
+        .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat {
+          background: none;
+          color: #919191;
+          font-size: 12px;
+        }
+
+        .vc_btn3.vc_btn3-color-juicy-pink,
+        .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat:hover {
+          background: none;
+          text-decoration: underline;
+          color: #F58634;
+          font-family: \'Roboto Mono\', monospace;
+          border: none !important;
+        }
+
+
+        /* Contact Form */
+        .wpcf7 input.wpcf7-text {
+          width: 100%;
+          font-size: 14px;
+        }
+
+        .wpcf7 textarea.wpcf7-textarea {
+          width: 100%;
+          font-size: 14px;
+        }
+
+        .wpcf7-form textarea {
+          height: 200px;
+        }
+
+        .wpcf7 {
+          text-transform: none !important;
+          font-size: 14px;
+        }
+
+        .submit,
+        .wpcf7-form .wpcf7-submit {
+          background: #F58634 !important;
+          cursor: pointer;
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+          color: #fff !important;
+          border: none !important;
+        }
+
+        .submit:hover,
+        .wpcf7-form .wpcf7-submit:hover {
+          background: #e27c30 !important;
+          color: #fff !important;
+        }
+
+        textarea,
+        input,
+        select {
+          background: #f7f7f7 !important;
+          border: 2px solid #efefee !important;
+          height: 50px;
+        }
+
+        textarea:focus,
+        input:focus,
+        select:focus {
+          background: #f7f7f7 !important;
+          border: 2px solid #F58634 !important;
+        }
+
+        label {
+          font-weight: normal;
+          width: 100%;
+        }
+
+        select {
+          background: #f7f7f7;
+          width: 100%;
+          padding: 10px;
+          border: 2px solid #e8e8e8;
+        }
+
+        .footer_text {
+          font-size: 12px !important;
+          color: #919191 !important;
+        }
+
+        .socials {
+          text-align: right !important;
+        }
+
+        .socials a {
+          margin-right: 8px;
+        }
+
+        .socials i {
+          font-size: 14px;
+          color: #919191 !important;
+        }
+
+        .socials i:hover {
+          color: #F58634 !important;
+        }
+
+        .blog_item {
+          max-width: 840px;
+          margin: 0 auto;
+        }
+
+        blockquote {
+          font-size: 28px;
+          font-style: normal;
+          color: #999;
+          line-height: 1.5;
+          font-weight: 300 !important;
+          margin-left: -90px;
+          padding-left: 40px;
+          margin-top: 70px;
+          margin-bottom: 70px;
+          padding-top: 0;
+          padding-bottom: 0;
+          border-left: 5px solid #f08519;
+        }
+
+        .inner_post_holder h1.oi_legend {
+          margin-bottom: 80px;
+        }
+
+        /* Rensponsive */
+        @media (min-width: 0px) and (max-width: 767px) {
+          .footer_text {
+            text-align: center;
+          }
+
+          .oi_sinle_portfolio_holder {
+            padding-top: 50px !important;
+          }
+
+          .socials {
+            text-align: center !important;
+          }
+
+          .this_page {
+            margin-top: 0 !important;
+          }
+
+          .oi_header_menu {
+            background: #fff !important;
+            width: 100%;
+            padding: 20px;
+            background: #e5e5e5;
+          }
+
+          .toggle-button {
+            float: right;
+          }
+
+          .brand-logo {
+            float: left;
+          }
+
+          .visible-xs {
+            float: right;
+            margin-top: 15px;
+            margin-right: 15px;
+            font-size: 16px;
+          }
+
+          .oi_head_holder {
+            padding: 20px 0;
+          }
+
+          .oi_v_menu li a {
+            margin: 0 !important;
+            padding: 20px 0;
+            font-size: 21px !important;
+          }
+        }
